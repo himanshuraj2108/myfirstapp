@@ -187,3 +187,4 @@ const styles = StyleSheet.create({
   }
 });
 export default App;
+//this is app.js file
